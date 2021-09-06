@@ -6,7 +6,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-image: url(/img/hitoshi-namura-MyiYvI-EKis-unsplash.jpg);
+  background-image: url(./img/hitoshi-namura-MyiYvI-EKis-unsplash.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
